@@ -14,17 +14,11 @@ These tools simplify common systems and reduce repetitive eventing work.
 • Event Template Copier  
 • Event Defaults System  
 
-## Playable Demo
-
-Try the demo project here:
-
-https://crimsonpetaldev.itch.io/crimson-petal-demo
-
 ## Full Toolkit
 
 The full plugin toolkit is available here:
 
-https://crimsonpetaldev.itch.io/crimson-petal-toolkit
+[https://crimsonpetaldev.itch.io/crimson-petal-toolkit]
 
 ## Screenshots
 
