@@ -18,7 +18,7 @@ These tools simplify common systems and reduce repetitive eventing work.
 
 The full plugin toolkit is available here:
 
-[https://crimsonpetaldev.itch.io/crimson-petal-toolkit]
+[[https://crimsonpetaldev.itch.io/crimson-petal-toolkit](https://crimsonpetaldev.itch.io/)]
 
 ## Screenshots
 
