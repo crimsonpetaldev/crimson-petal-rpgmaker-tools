@@ -22,8 +22,6 @@ The full plugin toolkit is available here:
 
 ## Screenshots
 
-(You will upload the screenshots from your demo here)
-
 ## Commissions
 
 Custom plugin commissions are available for RPG Maker MZ projects.
